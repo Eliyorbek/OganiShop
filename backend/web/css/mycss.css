@@ -1,0 +1,18 @@
+.breadcrumb{
+    padding:10px !important;
+    display:flex;
+    width:80%;
+}
+.index .header{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+.index .header .left{
+    justify-content:start;
+}
+.index .header .right{
+    position:absolute;
+    right:4%;
+    top:80px;
+}
